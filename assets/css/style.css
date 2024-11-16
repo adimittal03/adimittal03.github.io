@@ -482,7 +482,7 @@ body {
 .nav-bg .navbar-nav>.active>a,
 .nav-bg .navbar-nav>.active>a:hover,
 .nav-bg .navbar-nav>.active>a:focus {
-	color: #48b14d !important;
+	color: rgb(171, 20, 20) !important;
 	background-color: transparent;
 }
 
