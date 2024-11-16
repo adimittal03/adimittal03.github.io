@@ -27,7 +27,7 @@
 		color: #303030;
 	}
 	.navigation-menu .navbar-nav .active {
-		color: #48b14d;
+		color: rgb(171, 20, 20);
 	}
 	.navigation-menu .navbar-nav li a:hover {
 		color: #737373;
