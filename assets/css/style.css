@@ -116,7 +116,7 @@ body {
 .mybtn:hover,
 .mybtn:focus,
 .mybtn:active {
-	background: #48b14d !important;
+	background: rgb(171, 20, 20) !important;
 	visibility: visible;
 	color: #fff;
 }
@@ -134,7 +134,7 @@ body {
 }
 
 .btn-light {
-	background: #48b14d;
+	background: rgb(171, 20, 20);
 	color: #fff;
 	border: none;
 }
@@ -157,7 +157,7 @@ body {
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-	background: #48b14d !important;
+	background: rgb(171, 20, 20) !important;
 	visibility: visible;
 	color: #fff;
 }
@@ -623,7 +623,7 @@ body {
 }
 
 .social-icons li a:hover {
-	color: #48b14d;
+	color: rgb(171, 20, 20);
 }
 
 .social-icons li a i {
